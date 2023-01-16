@@ -17,4 +17,7 @@
     "url": "https://github.com/vladivis/frontend-project-44/issues"
   },
   "homepage": "https://github.com/vladivis/frontend-project-44#readme"
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
 }
