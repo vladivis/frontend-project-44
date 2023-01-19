@@ -3,7 +3,7 @@
 /* eslint-disable no-console */
 /* eslint-disable no-unused-expressions */
 import {
-  greetingAndAskName, askAnswer, congratulations, gameOverText
+  greetingAndAskName, askAnswer, congratulations, gameOverText,
 } from '../src/index.js';
 // 1. Задать вопрос
 
