@@ -1,7 +1,8 @@
 #!/usr/bin/env node
+/* eslint-disable import/no-extraneous-dependencies */
 /* eslint-disable import/extensions */
 /* eslint-disable no-console */
-/* eslint-disable no-unused-expressions */
+import _ from 'lodash';
 import {
   greetingAndAskName, askAnswer, congratulations, gameOverText,
 } from '../src/index.js';
@@ -32,7 +33,7 @@ for (let i = 0; i < 3; i += 1) {
   // 2. Получить ответ
   const answer = askAnswer();
   // 3. Сравнить ответ с правильным
-  result = result.toString();
+  result = _.toString(result);
   if (answer === result) {
     console.log('Correct!');
   } else {
