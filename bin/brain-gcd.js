@@ -12,7 +12,7 @@ console.log('Find the greatest common divisor of given numbers.');
 
 const findingHighestDivisor = (biggerNumber, lowerNumber) => {
   let highestDivisor;
-  for (let i = 0; i < lowerNumber; i += 1) {
+  for (let i = 1; i <= lowerNumber; i += 1) {
     if (biggerNumber % i === 0 && lowerNumber % i === 0) {
       highestDivisor = i;
     }
