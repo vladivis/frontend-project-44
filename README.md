@@ -4,3 +4,4 @@
 Demo videos:
 brain-even - https://asciinema.org/a/FU6go4CbRahrMZ2p8J8kyxZ9s
 brain-calc - https://asciinema.org/a/e7zPfCLqbtuK9Cxv31CJdcTNc
+brain-gcd - https://asciinema.org/a/MlXXZ5FMbr5XRzaqLzbiysSkB
