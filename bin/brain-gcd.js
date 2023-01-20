@@ -12,7 +12,7 @@ console.log('Find the greatest common divisor of given numbers.');
 
 const findingHighestDivisor = (biggerNumber, lowerNumber) => {
   let highestDivisor;
-  for (let i = 1; i <= lowerNumber; i += 1) {
+  for (let i = 0; i < lowerNumber; i += 1) {
     if (biggerNumber % i === 0 && lowerNumber % i === 0) {
       highestDivisor = i;
     }
@@ -21,8 +21,8 @@ const findingHighestDivisor = (biggerNumber, lowerNumber) => {
 };
 
 for (let i = 0; i < 3; i += 1) {
-  const number1 = Math.floor(Math.random() * 31);
-  const number2 = Math.floor(Math.random() * 31);
+  const number1 = Math.floor(Math.random() * 30) + 1;
+  const number2 = Math.floor(Math.random() * 30) + 1;
   let result;
 
   console.log(`Question: ${number1} ${number2}`);
