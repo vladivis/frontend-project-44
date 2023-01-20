@@ -12,8 +12,8 @@ const name = greetingAndAskName();
 console.log('What is the result of the expression?');
 
 for (let i = 0; i < 3; i += 1) {
-  const number1 = Math.floor(Math.random() * 31);
-  const number2 = Math.floor(Math.random() * 31);
+  const number1 = Math.floor(Math.random() * 30) + 1;
+  const number2 = Math.floor(Math.random() * 30) + 1;
   let result;
   switch (Math.floor(Math.random() * 3)) {
     case 0:
