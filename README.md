@@ -4,8 +4,10 @@
 
 ## Demo videos:
 ### brain-even - https://asciinema.org/a/FU6go4CbRahrMZ2p8J8kyxZ9s
-brain-calc - https://asciinema.org/a/e7zPfCLqbtuK9Cxv31CJdcTNc
-brain-gcd - https://asciinema.org/a/MlXXZ5FMbr5XRzaqLzbiysSkB
+
+### brain-calc - https://asciinema.org/a/e7zPfCLqbtuK9Cxv31CJdcTNc
+
+### brain-gcd - https://asciinema.org/a/MlXXZ5FMbr5XRzaqLzbiysSkB
 
 ### brain-progression
 <a href="https://asciinema.org/a/FJsPWUVY20FVN29E7smRUSazo" target="_blank"><img src="https://asciinema.org/a/FJsPWUVY20FVN29E7smRUSazo.svg" /></a>
