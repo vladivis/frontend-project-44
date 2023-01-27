@@ -6,9 +6,11 @@
 ### brain-even
 <a href="https://asciinema.org/a/kVyoDnDIevn9tiL6Kanc53LA8" target="_blank"><img src="https://asciinema.org/a/kVyoDnDIevn9tiL6Kanc53LA8.svg" /></a>
 
-### brain-calc - https://asciinema.org/a/e7zPfCLqbtuK9Cxv31CJdcTNc
+### brain-calc
+<a href="https://asciinema.org/a/bMLK6e2hMzo0q9iUGE1zrSxxp" target="_blank"><img src="https://asciinema.org/a/bMLK6e2hMzo0q9iUGE1zrSxxp.svg" /></a>
 
-### brain-gcd - https://asciinema.org/a/MlXXZ5FMbr5XRzaqLzbiysSkB
+### brain-gcd
+<a href="https://asciinema.org/a/3kjMq2W7Lnv8k7hgFMcY7RXso" target="_blank"><img src="https://asciinema.org/a/3kjMq2W7Lnv8k7hgFMcY7RXso.svg" /></a>
 
 ### brain-progression
-<a href="https://asciinema.org/a/FJsPWUVY20FVN29E7smRUSazo" target="_blank"><img src="https://asciinema.org/a/FJsPWUVY20FVN29E7smRUSazo.svg" /></a>
+<a href="https://asciinema.org/a/K4wXL1n28InJmzlZnU6hYFJUc" target="_blank"><img src="https://asciinema.org/a/K4wXL1n28InJmzlZnU6hYFJUc.svg" /></a>
