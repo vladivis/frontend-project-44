@@ -4,10 +4,6 @@
 /* eslint-disable no-unused-expressions */
 import readlineSync from 'readline-sync';
 
-// 1. Задать вопрос
-
-// 2. Получить ответ
-
 export const greetingAndAskName = () => {
   console.log('Welcome to the Brain Games!');
   const name = readlineSync.question('May I have your name? ');
@@ -20,8 +16,6 @@ export const askAnswer = () => {
   console.log(`Your answer: ${answer}`);
   return answer;
 };
-
-// 3. Сравнить ответ с правильным
 
 export const gameOverText = (answer, result, name) => {
   console.log(`'${answer}' is wrong answer ;(. Correct answer was '${result}'.\nLet's try again, ${name}!`);
