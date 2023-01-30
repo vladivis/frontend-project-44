@@ -15,7 +15,7 @@ rm -rf ~/frontend-project-44
 ```
 ### Global install & uninstall
 ```bash
-cd frontend-project-44/
+cd ~/frontend-project-44
 sudo npm link
 # start games anywhere with command without "make" : <game_name>
 
